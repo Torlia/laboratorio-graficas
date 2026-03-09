@@ -26,7 +26,7 @@
     <None Include="Shader\core.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Modelado_Paloma_Practica4.cpp" />
+    <ClCompile Include="Modelado_Jerarquico_Previo5.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
