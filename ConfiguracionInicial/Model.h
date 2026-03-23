@@ -1,3 +1,8 @@
+// Previo 7
+// Cecilia Torres
+// 421040214
+// 22/03/20262
+
 #pragma once
 
 #include <string>
